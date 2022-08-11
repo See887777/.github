@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="111" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="115" class="">
     <defs>
         <style/>
     </defs>
@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why does the dot command (source) not work on files without path in zsh?</div>
-                                <div class="date">3 Aug 2022</div>
+                                <div class="title">zsh の prezto の テーマを pure に変更する</div>
+                                <div class="date">11 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to run commands in a sub-shell and suppress output in the background that's ZSH &amp; shellcheck compatible</div>
-                                <div class="date">30 Jul 2022</div>
+                                <div class="title">Ubuntu で tmux のデフォルトシェルを zsh に変更する</div>
+                                <div class="date">10 Aug 2022</div>
                             </div>
                         </div>
                     </section>
